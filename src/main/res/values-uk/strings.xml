@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Здоров</string>
+    <string name="Hello_world" translatable="false">Здоров</string>
+    <string name="hello_world">Здоров</string>
+</resources>
